@@ -1,4 +1,4 @@
-# ENIAC-data_exploration- 
+# Products Discount at Eniac- 
 The aim of this project is to ascertain if it is beneficial to discount products or not.
 ## About the project
 As the data analyst for the e-commerce tech company, I will be analysing the data to give insights as to whether it is beneficial to discount products or not. I will be presenting the result of my analysis to the company board
