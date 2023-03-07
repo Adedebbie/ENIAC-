@@ -13,9 +13,9 @@ I will be providing clarity on the following aspect:
 - How could data collection be improved.
 
 ## Skills needed
-Data cleaning
-Data visualisation
-Data storytelling
+- Data cleaning
+- Data visualisation
+- Data storytelling
 
 ## Tools 
 1. Jupyter Notebooks
